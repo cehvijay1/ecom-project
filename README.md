@@ -30,4 +30,4 @@ Python: For data cleaning, preprocessing, and analysis.
 SQL: For structured data storage and querying.
 PowerBI: For creating interactive data visualizations.
 Future Scope
-We aim to further delve into predictive analytics, utilize NLP for detailed customer feedback analysis, and possibly integrate real-time data streams for up-to-date insights.cL
+We aim to further delve into predictive analytics, utilize NLP for detailed customer feedback analysis, and possibly integrate real-time data streams for up-to-date insights.cL 
